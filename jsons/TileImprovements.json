@@ -1,0 +1,15 @@
+[
+	{
+		"name": "Terrace farm",
+		"terrainsCanBeBuiltOn": ["Hill"],
+		"food": 1,
+		"turnsToBuild": 7,
+		"uniques": ["Cannot be built on [Bonus resource] tiles",
+			"[+1 Food] for each adjacent [Mountain]",
+			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
+			"[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",
+            "Pillaging this improvement yields approximately [+18 Gold]"],
+		"techRequired": "Construction",
+		"shortcutKey": "F"
+	}
+]
